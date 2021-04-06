@@ -1,7 +1,8 @@
-site_name: Wizeline MkDocs Template
+site_name: Silvia Alvarado
 nav:
-  - Home: index.md
-  - About: about.md
+  - Biography: index.md
+  - Education, Experience, and Skills: edu_exp.md
+  - Past Work: pastwork.md
 
 theme:
   name: material

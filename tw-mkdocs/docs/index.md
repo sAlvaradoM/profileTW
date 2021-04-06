@@ -1,30 +1,22 @@
-# Index Page
+# Silvia Alvarado Mallo
 
-## Wizeline DocOps Template
+Senior Technical Writer
 
-Welcome to the DocOps Template
+Guadalajara
 
-## Adding Information to the Page
+<div name = "profPic">
+<img alt="" src="/images/slam.JPG" />
+</div>
 
-Use Markdown to add information to the pages of your site.
+<div style="clear: right">
+   
+Silvia has more than six years of experience working as a Technical Writer in different types of technology industries such as BPM, IoT, and Internet media. As a Technical Writer, Silvia does the following:
 
-For example, here is a list:
+<ul>
+<li> Identifies gaps in the information flow inside companies.</li>
+<li> Creates and maintains the technical documentation that best suits the software product or solution.</li>
+<li> Tests the software using debugging tools to identify the flow and interaction of data among different systems.</li>
+</ul>
+Silvia's current interest is the implementation of DocOps in the Technical Writer team at Wizeline.
 
-1.  Item 1
-2.  Item 2
-3.  Item 3
-
-Here is another list:
-
-* Another item
-* Another item
-
-## Adding a New Page
-
-Add new pages to your site doing the following:
-
-1. Create a _.md_ file to the **docs** folder.
-2. Open the **mkdocs.yml** file.
-3. Add the title of the page and the name of the _.md_ file you created under **nav:**.
-
-To learn more about how to write your documents using MkDocs, refer to the official page [Writing your docs](https://www.mkdocs.org/user-guide/writing-your-docs/).
+</div>  
