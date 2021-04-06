@@ -1,7 +1,7 @@
 site_name: Silvia Alvarado
 nav:
-  - Home: index.md
-  - Education and Experience: edu_exp.md
+  - Biography: index.md
+  - Education, Experience, and Skills: edu_exp.md
   - Past Work: pastwork.md
 
 theme:
