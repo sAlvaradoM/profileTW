@@ -1,14 +1,12 @@
-# Silvia Alvarado Mallo
+<div id="titleTW">Senior Technical Writer</div>
 
-Senior Technical Writer
+<div id="titleLoc">Guadalajara</div>
 
-Guadalajara
-
-<div name = "profPic">
-<img alt="" src="/images/slam.JPG" />
+<div>
+<img id = "profPic" alt="" src="/images/slam.JPG" />
 </div>
 
-<div style="clear: right">
+<div style="clear: right; padding-left:50%;">
    
 Silvia has more than six years of experience working as a Technical Writer in different types of technology industries such as BPM, IoT, and Internet media. As a Technical Writer, Silvia does the following:
 
