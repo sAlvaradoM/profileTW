@@ -1,6 +1,6 @@
 # Education
 
-* Bachelor, Computer Science - Universidad Mayor de San Andrés
+Bachelor, Computer Science - Universidad Mayor de San Andrés
 
 # Experience
 
