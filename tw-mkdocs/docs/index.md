@@ -4,8 +4,8 @@ Senior Technical Writer
 
 Guadalajara
 
-<div name = "profPic">
-<img alt="" src="/images/slam.JPG" />
+<div>
+<img name = "profPic" alt="" src="/images/slam.JPG" />
 </div>
 
 <div style="clear: right">
